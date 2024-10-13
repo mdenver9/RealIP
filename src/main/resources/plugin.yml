@@ -1,5 +1,5 @@
 name: TCPShield
-version: 2.8.1
+version: 2.8.1-folia
 main: net.tcpshield.tcpshield.bukkit.TCPShieldBukkit
 softdepend:
 - ProtocolLib
@@ -7,3 +7,4 @@ softdepend:
 author: https://tcpshield.com
 description: TCPShield IP parsing capabilities for Velocity
 api-version: 1.16
+folia-supported: true
